@@ -1,4 +1,4 @@
-https://github.com/Adityamulyaf/Adityamulyaf/blob/main/asset/banner.jpg
+<img src="banner.jpg" alt="GitHub Banner" width="100%" />
 
 # 👦 About Me:
 🔭 I’m currently studying Informatics at Universitas Sebelas Maret<br>🌱 I’m currently learning everything about computer science<br>📫 How to reach me: adityamulyaf@gmail.com

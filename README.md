@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=90&pause=1000&color=F7F7F7&background=0099FF&center=true&vCenter=true&width=1584&height=396&lines=Hello%2C+World!;Help+me!+I'm+very+dependent+on+AI++%F0%9F%98%A9" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=90&pause=1000&color=F7F7F7&background=0099FF&center=true&vCenter=true&width=1584&height=396&lines=Hello%2C+World!" alt="Typing SVG" /></a>
 </div>
 
 ---
@@ -63,15 +63,15 @@
 ---
 
 <div align="center">
-  <img src="himmel.gif">
-</div>
-
----
-
-<div align="center">
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adityamulyaf/Adityamulyaf/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adityamulyaf/Adityamulyaf/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
     </picture>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media1.tenor.com/m/vPnMgX6oF18AAAAC/frieren-himmel.gif">
 </div>

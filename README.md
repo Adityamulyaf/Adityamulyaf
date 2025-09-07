@@ -41,6 +41,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/-YOLO-111F68?logo=YOLO&logoColor=white" alt="YOLO" />
   <img src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=flat&logo=ros&logoColor=white" alt="ROS" />
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" alt="Pandas" />

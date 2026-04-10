@@ -61,7 +61,10 @@
     <img src="https://streak-stats.demolab.com?user=Adityamulyaf&theme=tokyonight&hide_border=true" alt="Adityamulyaf's GitHub Stats" />
 </div>
 
-![](https://komarev.com/ghpvc/?username=Adityamulyaf)
+<div align="center">
+    <img src="https://img.shields.io/badge/Profile%20Views-578,601-blue" />
+</div>
+
 
 ---
 

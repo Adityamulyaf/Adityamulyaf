@@ -61,6 +61,8 @@
     <img src="https://streak-stats.demolab.com?user=Adityamulyaf&theme=tokyonight&hide_border=true" alt="Adityamulyaf's GitHub Stats" />
 </div>
 
+![](https://komarev.com/ghpvc/?username=Adityamulyaf)
+
 ---
 
 <div align="center">

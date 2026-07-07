@@ -21,4 +21,14 @@
 <details align="center">
   <summary>𝚂𝚝𝚊𝚝𝚜</summary>
   <img src="https://raw.githubusercontent.com/Adityamulyaf/Adityamulyaf/output/github-metrics.svg" alt="GitHub Metrics" /> <img src="https://raw.githubusercontent.com/Adityamulyaf/Adityamulyaf/output/metrics.plugin.isocalendar.fullyear.svg" alt="Full-year calendar" />
+  
+  <br><br>
+  <hr>
+  
+  <p>𝙲𝚘𝚗𝚐𝚛𝚊𝚝𝚜! 𝚈𝚘𝚞 𝚓𝚞𝚜𝚝 𝚏𝚘𝚞𝚗𝚍 𝚝𝚑𝚎 𝙷𝚎𝚛𝚘'𝚜 𝚂𝚠𝚘𝚛𝚍!</p>
+  <a href="hero-sword.md">
+    <img src="assets/sword.png" alt="The Sword of the Hero" width="200" />
+  </a>
+  <br>
+  <sub><i>(𝙲𝚕𝚒𝚌𝚔 𝚝𝚑𝚎 𝚜𝚠𝚘𝚛𝚍 𝚝𝚘 𝚙𝚞𝚕𝚕 𝚒𝚝 𝚘𝚞𝚝)</i></sub>
 </details>

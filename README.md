@@ -12,7 +12,7 @@
 ---
 
 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔:
-* 𝚁𝚘𝚋𝚘𝚝𝚒𝚌𝚜 / 𝙰𝙸: `Python` `ROS` `OpenCV` `PyTorch` `YOLO`
+* 𝚁𝚘𝚋𝚘𝚝𝚒𝚌𝚜 / 𝙰𝙸: `Python` `ROS` `OpenCV` `PyTorch` `YOLO` `TFLite` `CUDA`
 * 𝚆𝚎𝚋 𝙳𝚎𝚟: `React` `Next.js` `Laravel` `TailwindCSS` `MySQL` `PostgreSQL`
 * 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜: `C` `Java` `JavaScript` `PHP`
 

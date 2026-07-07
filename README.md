@@ -20,8 +20,5 @@
 
 <details align="center">
   <summary>𝚂𝚝𝚊𝚝𝚜</summary>
-  <br>
-  <img src="https://streak-stats.demolab.com?user=Adityamulyaf&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br><br>
   <img src="https://raw.githubusercontent.com/Adityamulyaf/Adityamulyaf/output/github-metrics.svg" alt="GitHub Metrics" />
 </details>

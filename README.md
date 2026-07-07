@@ -20,5 +20,5 @@
 
 <details align="center">
   <summary>𝚂𝚝𝚊𝚝𝚜</summary>
-  <img src="https://raw.githubusercontent.com/Adityamulyaf/Adityamulyaf/output/github-metrics.svg" alt="GitHub Metrics" />
+  <img src="https://raw.githubusercontent.com/Adityamulyaf/Adityamulyaf/output/github-metrics.svg" alt="GitHub Metrics" /> <img src="https://raw.githubusercontent.com/Adityamulyaf/Adityamulyaf/output/metrics.plugin.isocalendar.fullyear.svg" alt="Full-year calendar" />
 </details>

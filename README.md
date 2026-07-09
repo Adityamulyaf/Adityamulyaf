@@ -23,7 +23,7 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=Adityamulyaf&color=5C3EE8&style=flat-square&label=Profile+Views" alt="Profile Views" />
   <br><br>
-  <img src="https://raw.githubusercontent.com/Adityamulyaf/Adityamulyaf/output/github-metrics.svg" alt="GitHub Metrics" /> <img src="https://raw.githubusercontent.com/Adityamulyaf/Adityamulyaf/output/metrics.plugin.isocalendar.fullyear.svg" alt="Full-year calendar" />
+  <img src="https://raw.githubusercontent.com/Adityamulyaf/Adityamulyaf/refs/heads/output/github-metrics.svg" alt="GitHub Metrics" /> <img src="https://raw.githubusercontent.com/Adityamulyaf/Adityamulyaf/refs/heads/output/metrics.plugin.isocalendar.fullyear.svg" alt="Full-year calendar" />
   
   <br><br>
   <hr>

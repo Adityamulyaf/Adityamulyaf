@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/sword.png" alt="The Sword of the Hero" width="300" />
+  <img src="assets/sword_opt.png" alt="The Sword of the Hero" width="300" />
 
   # 🪨 勇者の剣 (Yūsha no Tsurugi)
 

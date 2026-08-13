@@ -1,7 +1,7 @@
 # 𝙷𝚒, 𝙸'𝚖 𝙳𝚒𝚝𝚢𝚊!
 
-𝙱𝚞𝚒𝚕𝚍𝚒𝚗𝚐: 𝙰𝚞𝚝𝚘𝚗𝚘𝚖𝚘𝚞𝚜 𝚂𝚞𝚛𝚏𝚊𝚌𝚎 𝚅𝚎𝚑𝚒𝚌𝚕𝚎 𝚊𝚝 **𝙱𝚎𝚗𝚐𝚊𝚠𝚊𝚗 𝚄𝚅**<br>
-𝙴𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐: Autonomous Robotics System, 𝚆𝚎𝚋 𝙳𝚎𝚟, & 𝙰𝙸/𝙼𝙻
+𝙱𝚞𝚒𝚕𝚍𝚒𝚗𝚐: 𝙰𝚞𝚝𝚘𝚗𝚘𝚖𝚘𝚞𝚜 𝚅𝚎𝚑𝚒𝚌𝚕𝚎 𝚊𝚝 **𝙱𝚎𝚗𝚐𝚊𝚠𝚊𝚗 𝚄𝚅**<br>
+𝙴𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐: Autonomous System, 𝚆𝚎𝚋 𝙳𝚎𝚟, & 𝙰𝙸/𝙼𝙻
 
 <div align="center">
   <a href="https://portfolio-adityamulyaf.vercel.app/">𝙿𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘</a> · 

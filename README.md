@@ -1,7 +1,7 @@
 # 𝙷𝚒, 𝙸'𝚖 𝙳𝚒𝚝𝚢𝚊!
 
-𝙱𝚞𝚒𝚕𝚍𝚒𝚗𝚐: 𝙰𝚞𝚝𝚘𝚗𝚘𝚖𝚘𝚞𝚜 𝚅𝚎𝚑𝚒𝚌𝚕𝚎 𝚊𝚝 **𝙱𝚎𝚗𝚐𝚊𝚠𝚊𝚗 𝚄𝚅**<br>
-𝙴𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐: Autonomous System, 𝚆𝚎𝚋 𝙳𝚎𝚟, & 𝙰𝙸/𝙼𝙻
+𝙱𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚊𝚞𝚝𝚘𝚗𝚘𝚖𝚘𝚞𝚜 𝚟𝚎𝚑𝚒𝚌𝚕𝚎𝚜 𝚊𝚝 **𝙱𝚎𝚗𝚐𝚊𝚠𝚊𝚗 𝚄𝚅**<br>
+𝙴𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐: 𝙰𝚞𝚝𝚘𝚗𝚘𝚖𝚘𝚞𝚜 𝚂𝚢𝚜𝚝𝚎𝚖𝚜, 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐, & 𝙰𝙸/𝙼𝙻
 
 <div align="center">
   <a href="https://portfolio-adityamulyaf.vercel.app/">𝙿𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘</a> · 
@@ -12,11 +12,19 @@
 ---
 
 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔:
-* Robotics / AI: `ROS (Noetic)` `MAVROS` `pymavlink` `ArduPilot (ArduSub/ArduRover)` `SITL` `OpenCV` `TensorRT` `pycuda` `GStreamer` `Path Planning` `Multi-Object Tracking (ByteTrack/OC-SORT)` `Protobuf` `zbar` `RViZ` `rqt_reconfigure`
-* 𝚆𝚎𝚋 𝙳𝚎𝚟: `React` `Next.js` `Laravel` `TailwindCSS` `MySQL` `PostgreSQL`
-* 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜: `C` `Java` `JavaScript` `PHP`
 
----
+* 𝚁𝚘𝚋𝚘𝚝𝚒𝚌𝚜 / 𝙰𝙸:
+  `ROS (Noetic)` `MAVROS` `pymavlink` `ArduPilot (ArduSub/ArduRover)`
+  `SITL` `OpenCV` `TensorRT` `pycuda` `GStreamer` `Path Planning`
+  `Multi-Object Tracking (ByteTrack/OC-SORT)` `RViZ` `rqt_reconfigure`
+
+* 𝚆𝚎𝚋 / 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎:
+  `React` `Next.js` `Laravel` `TailwindCSS` `MySQL` `PostgreSQL`
+
+* 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜:
+  `C` `C++` `Python` `Java` `JavaScript` `PHP`
+
+  ---
 
 <details align="center">
   <summary>𝚂𝚝𝚊𝚝𝚜</summary>
